@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prashant</h1>
-<h3 align="center">A passionate Full Stack developer from India. I'm an avid follower of technology, a developer and programmer who loves learning new tech skills and I'm always looking for something new to challenge myself.I passionate about developing products that have positive real life impact.</h3>
+<h3 align="center">I'm an avid follower of technology, a developer and programmer who loves learning new tech skills and I'm always looking for something new to challenge myself. As a javascript junkie myself, i have worked on MERN stack and with several other technologies, while keeping a holistic perspective in mind.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantkumar23&label=Profile%20views&color=0e75b6&style=flat" alt="prashantkumar23" /> </p>
 
-- 🔭 I’m currently working on [DogePad](www.google.com)
 
 - 👨‍💻 All of my projects are available at [https://prashantkumar23.github.io/portfolioDev/#/](https://prashantkumar23.github.io/portfolioDev/#/)
 
@@ -11,7 +10,6 @@
 
 - 📫 How to reach me **prashantdrew23@gmail.com**
 
-- ⚡ Fun fact **Elephants can’t jump**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
