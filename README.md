@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Prashant</h1>
-<h3 align="center">I'm an avid follower of technology, a developer and programmer who loves learning new tech skills and I'm always looking for something new to challenge myself. As a javascript junkie myself, i have worked on MERN stack and with several other technologies, while keeping a holistic perspective in mind.</h3>
+<h3 align="center">A software developer based in India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantkumar23&label=Profile%20views&color=0e75b6&style=flat" alt="prashantkumar23" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://prashantkumar23.github.io/portfolioDev/#/](https://prashantkumar23.github.io/portfolioDev/#/)
+- 👨‍💻 More detail info is available at [https://www.theprashant.one/](https://www.theprashant.one/)
 
-- 💬 Ask me about **frontend and backend**
+- 💬 Ask me about **Why did the tomato turn red? *
 
 - 📫 How to reach me **prashantkumar23.eng@gmail.com**
 
@@ -19,26 +19,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-      alt="aws"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
       alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
       width="40"
       height="40"
     />
@@ -80,7 +64,7 @@
   </a>
   <a href="https://nextjs.org/" target="_blank">
     <img
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg"
+      src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png"
       alt="nextjs"
       width="40"
       height="40"
