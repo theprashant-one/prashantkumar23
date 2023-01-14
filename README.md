@@ -6,7 +6,7 @@
 
 - 👨‍💻 More detail info is available at [https://www.theprashant.one/](https://www.theprashant.one/)
 
-- 💬 Ask me about **Why did the tomato turn red? *
+- 💬 Ask me about **Why did the tomato turn red?**
 
 - 📫 How to reach me **prashantkumar23.eng@gmail.com**
 
